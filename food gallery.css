@@ -1,0 +1,35 @@
+h1{
+    text-align: center;}
+    .c{
+        height: 250px;
+        width: 90%;
+        
+        border: 2px ;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        flex-wrap: wrap;
+        margin-top: 5px;
+        background-color: rgb(237, 196, 196);
+        
+    }
+.b{
+    height: 170px;
+    width: 150px;
+    background-color: rgb(96, 39, 39);
+    border: solid 1px ;
+    color: rgb(74, 203, 223);
+    
+
+}
+
+img{height: 130px;
+    width: 100%;
+
+}
+p{
+    text-align: center;
+}
